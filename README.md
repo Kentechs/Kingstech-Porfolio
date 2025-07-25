@@ -1,2 +1,2 @@
 # Kingstech-Porfolio
-My Learning practices 
+My Learning Practices 
